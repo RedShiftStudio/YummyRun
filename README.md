@@ -89,11 +89,11 @@ new Product(
 
 | Экран | Изображение |
 |-------|-------------|
-| **Страница регистрации** | <img src="screenshots/registration.png" alt="Регистрация" width="100" /> |
-| **Страница авторизации** | <img src="screenshots/login.png" alt="Авторизация" width="100" /> |
-| **Модальное окно для восстановления пароля** | <img src="screenshots/forget_password.png" alt="Восстановление пароля" width="100" /> |
-| **Главный экран** | <img src="screenshots/home.png" alt="Главная" width="100" /> |
-| **Детали товара** | <img src="screenshots/food_details.png" alt="Детали товара" width="100" /> |
-| **Добавление товара в корзину** | <img src="screenshots/modal_add_to_cart.png" alt="Добавление в корзину" width="100" /> |
-| **Корзина** | <img src="screenshots/cart.png" alt="Корзина" width="100" /> |
-| **Аккаунт** | <img src="screenshots/account.png" alt="Аккаунт" width="100" /> |
+| **Страница регистрации** | <img src="screenshots/registration.png" alt="Регистрация" width="200" /> |
+| **Страница авторизации** | <img src="screenshots/login.png" alt="Авторизация" width="200" /> |
+| **Модальное окно для восстановления пароля** | <img src="screenshots/forget_password.png" alt="Восстановление пароля" width="200" /> |
+| **Главный экран** | <img src="screenshots/home.png" alt="Главная" width="200" /> |
+| **Детали товара** | <img src="screenshots/food_details.png" alt="Детали товара" width="200" /> |
+| **Добавление товара в корзину** | <img src="screenshots/modal_add_to_cart.png" alt="Добавление в корзину" width="200" /> |
+| **Корзина** | <img src="screenshots/cart.png" alt="Корзина" width="200" /> |
+| **Аккаунт** | <img src="screenshots/account.png" alt="Аккаунт" width="200" /> |
